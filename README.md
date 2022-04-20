@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Html](https://www.w3schools.com/html)
 - [Css](https://www.w3schools.com/css/default.asp)
-  
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## Setup
 
